@@ -3018,3 +3018,5 @@ DOMAIN-SUFFIX,instagram.com,海外服务
 DOMAIN-SUFFIX,openai.com,美国
 
 IP-CIDR,184.150.14.209/32,海外服务
+
+DOMAIN-SUFFIX,wallhaven.cc,海外服务
