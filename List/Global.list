@@ -764,6 +764,7 @@ HOST-KEYWORD,blogspot,海外服务
 HOST-KEYWORD,dropbox,海外服务
 HOST-KEYWORD,facebook,海外服务
 HOST-KEYWORD,github,海外服务
+HOST-KEYWORD,x.com,海外服务
 HOST-KEYWORD,instagram,海外服务
 HOST-KEYWORD,twitter,海外服务
 HOST-KEYWORD,whatsapp,海外服务
@@ -3017,3 +3018,4 @@ DOMAIN-SUFFIX,help.x.com,海外服务
 DOMAIN-SUFFIX,xfuliji.com,海外服务
 DOMAIN-SUFFIX,huggingface.co,海外服务
 DOMAIN-SUFFIX,tensor.art,海外服务
+DOMAIN-SUFFIX,cococlip.ai,海外服务
